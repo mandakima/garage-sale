@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Garage Sale
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![image](https://user-images.githubusercontent.com/79334348/187709187-374c39e2-4e64-4a59-9beb-062e68a71aa5.png)
+
 
 ## Available Scripts
 
