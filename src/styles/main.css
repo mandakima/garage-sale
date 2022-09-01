@@ -153,12 +153,13 @@ h5 {
 }
 
 .product div #title {
-  color: rgb(37, 107, 139);
-  font-weight: 700;
+  color: #2c2a4a;
+  font-size: 18px;
+  font-weight: 800;
 }
 
 .product div #price {
-  color: rgb(145, 22, 145);
+  color: #b18fcf;
   font-weight: 600;
 }
 
